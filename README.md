@@ -1,82 +1,86 @@
-# Merhaba, Ben Yusuf Ortaç! 👋  
-🎮 **Unity Game Developer | Oyun Tutkunu**  
+<h1 align="center">Merhaba, Ben Yusuf Ortaç! 👋</h1>  
+<h3 align="center">🎮 Unity Game Developer | Oyun Mekaniği Uzmanı</h3>  
 
-Merhaba! Ben Yusuf, oyun geliştirme tutkumu profesyonel kariyerime dönüştürmüş bir Unity geliştiricisiyim. Şimdiye kadar birçok farklı türde projede yer aldım ve oyunların her aşamasında çalışarak sektörde deneyim kazandım.  
-
----
-
-## 🚀 Hakkımda  
-- 🎓 **Uzmanlık Alanım:** Unity 3D ile oyun geliştirme  
-- 🔍 **İlgi Alanları:**  
-  - Oyun mekaniği tasarımı  
-  - Performans optimizasyonu  
-  - Adreslenebilir varlıklar (**Unity Addressables**)  
-  - Çarpıcı kullanıcı deneyimleri ve görsel efektler  
-- 🌟 LinkedIn'de [7.000 takipçi](https://www.linkedin.com/in/yusufortac/) ile oyun geliştirme üzerine faydalı içerikler ve projeler paylaşıyorum.  
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=yusufortac&label=Profil%20Görüntüleme%20Sayısı&color=0e75b6&style=flat" alt="profil görüntüleme sayısı" />  
+</p>  
 
 ---
 
-## 🛠️ Teknik Beceriler  
-### **Diller ve Araçlar:**  
-![Unity](https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)  
-![Post Processing](https://img.shields.io/badge/-Post%20Processing-%23F3C623)  
-![Addressables](https://img.shields.io/badge/-Addressables-%235F8EDD)  
+## 🌟 Hakkımda  
+Merhaba! Ben Yusuf, Unity ile oyun geliştirme konusunda uzmanlaşmış bir geliştiriciyim. Simülasyon, hyper-casual ve bulmaca türlerinde projeler üzerinde çalıştım ve oyun dünyasına yenilikçi fikirler kazandırmayı hedefliyorum. Teknik becerilerimi sürekli geliştirirken, LinkedIn'de [7.000+ takipçi](https://www.linkedin.com/in/yusufortac/) ile oyun geliştirme üzerine bilgiler paylaşıyorum.  
 
-### **Uzmanlık Alanları:**  
-- Oyun içi ekonomi sistemleri  
-- AI (Yapay Zeka) geliştirme  
-- UI/UX tasarımı ve implementasyonu  
-- Mobil oyun optimizasyonu  
-- Fizik tabanlı mekanikler  
+### 🚀 İlgi Alanlarım:  
+- **Oyun Mekaniği Tasarımı**  
+- **Performans Optimizasyonu**  
+- **Unity Addressables ile Asset Yönetimi**  
+- **AI Tabanlı Oyun Sistemleri**  
+- **Hyper-Casual ve Simülasyon Türü Oyunlar**  
 
 ---
 
 ## 💼 Profesyonel Deneyim ve Projeler  
 
 ### 🎲 **Car For Sale Simulator**  
-- 🏎️ Bir araba satış simülasyonu oyunu.  
-- **Görevlerim:**  
-  - Performans optimizasyonu ve oyun mekaniği geliştirme  
-  - Kullanıcı arayüzü tasarımı ve implementasyonu  
-  - Asset yönetimi ve adreslenebilir varlıklarla kaynak optimizasyonu  
+🏎️ Araç alım-satım simülasyonu odaklı bir oyun.  
+- **Öne Çıkan Çalışmalar:**  
+  - Performans optimizasyonu  
+  - Kullanıcı arayüzü tasarımı ve oyun mekaniği geliştirme  
+  - Adreslenebilir varlıklarla kaynak yönetimi  
 
 ### 🎰 **Casino Simulator**  
-- 🎰 Kullanıcıların farklı casino oyunları deneyimleyebileceği bir simülasyon.  
-- **Görevlerim:**  
-  - Oyun içi ekonomi sistemlerinin geliştirilmesi  
-  - Yapay zeka tabanlı rakip davranışlarının programlanması  
-  - Özel efektler ve animasyonlar ile kullanıcı deneyiminin geliştirilmesi  
+🎰 Casino oyunlarını deneyimlemek için tasarlanmış bir simülasyon oyunu.  
+- **Öne Çıkan Çalışmalar:**  
+  - Ekonomi sistemlerinin geliştirilmesi  
+  - AI destekli rakip davranışları  
+  - Özel efektler ve animasyonlarla görsel zenginlik  
 
-### 📱 **Mini Hyper-Casual Oyunlar (Prototip Çalışmaları)**  
-- Mobil platformlar için hızlı geliştirme ve test süreçleri ile çeşitli oyun prototipleri geliştirdim.  
-- **Başarılarım:**  
-  - Hyper-casual türde mekanikler geliştirme  
-  - Geliştirdiğim prototiplerden biri yayınlanarak 100.000+ indirme aldı.  
+### 📱 **Hyper-Casual Mini Prototipler**  
+- Mobil platformlara yönelik hızlı geliştirme süreçlerinde çeşitli oyunlar geliştirdim.  
+- Geliştirdiğim prototiplerden biri yayınlandı ve **100.000+ indirme** aldı.  
 
 ### 🌌 **Kendi Kişisel Projelerim**  
-- **FPS Oyun Prototipi:** Gerçekçi silah fiziği ve kullanıcı dostu arayüzüyle bir FPS oyunu tasarladım.  
-- **Puzzle Platformer:** Fizik tabanlı bulmacalarla kullanıcıları düşündürmeyi hedefleyen bir platform oyunu.  
+- **FPS Oyun Prototipi:** Gerçekçi silah fiziği ve kullanıcı dostu bir arayüz ile birinci şahıs nişancı oyunu.  
+- **Puzzle Platformer:** Fizik tabanlı bulmacalarla dikkat çeken bir platform oyunu.  
 
 ---
 
-## 📊 GitHub İstatistikleri  
-![Yusuf'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=YusufOrtaç&show_icons=true&theme=radical)  
-![Yusuf'un En Çok Kullanılan Dilleri](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufOrtaç&layout=compact&theme=radical)  
+## 🛠️ Kullandığım Araçlar ve Teknolojiler  
+
+### **Programlama Dilleri ve Motorlar**  
+<p align="left">  
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" alt="unity" width="40" height="40"/> </a>  
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" alt="csharp" width="40" height="40"/> </a>  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" alt="git" width="40" height="40"/> </a>  
+</p>  
+
+### **Tasarım ve Araçlar**  
+<p align="left">  
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blender.svg" alt="blender" width="40" height="40"/> </a>  
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobephotoshop.svg" alt="photoshop" width="40" height="40"/> </a>  
+</p>  
 
 ---
 
-## 🎯 Gelecekteki Hedefler  
-- Daha fazla multiplayer oyun geliştirme üzerine çalışmak  
-- AI ile güçlendirilmiş oyun projelerinde uzmanlaşmak  
-- Kendi indie oyun stüdyomu kurarak oyunculara ilham verecek projeler yaratmak  
+## 📊 GitHub İstatistiklerim  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufortac&show_icons=true&locale=en&layout=compact&theme=radical" alt="yusufortac" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufortac&show_icons=true&locale=en&theme=radical" alt="yusufortac" /></p>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufortac&theme=radical" alt="yusufortac" /></p>  
+
+---
+
+## 🎯 Gelecekteki Hedeflerim  
+- **Multiplayer** projelerde çalışarak oyun geliştirme deneyimimi ileri taşımak  
+- Kendi **indie oyun stüdyomu** kurarak yenilikçi projeler geliştirmek  
+- Daha fazla oyun severin ilgisini çekecek **ilham verici oyun mekanikleri** tasarlamak  
 
 ---
 
 ## 📫 Bana Ulaşın  
+<p align="left">  
+<a href="https://linkedin.com/in/yusufortac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>  
+</p>  
+
 - **E-posta:** yusufortac@example.com  
-- **LinkedIn:** [linkedin.com/in/yusufortac](https://www.linkedin.com/in/yusufortac/)  
-- **Portfolio:** [yusufortac.github.io](https://yusufortac.github.io/)  
+- **Portfolio:** [yusufortac.github.io](https://yusufortac.github.io)  
